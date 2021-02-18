@@ -23,6 +23,8 @@
         android:layout_marginStart="5dp"
         android:layout_toEndOf="@id/ivProfileImage"
         android:text="Image"
+        android:autoLink="all"
+        android:linksClickable="true"
         tools:layout_alignParentTop="true"
         tools:layout_marginTop="0dp"
         tools:layout_toEndOf="@id/ivProfileImage" />
@@ -35,6 +37,8 @@
         android:layout_alignParentStart="false"
         android:layout_alignParentTop="false"
         android:layout_marginStart="5dp"
+        android:autoLink="all"
+        android:linksClickable="true"
         android:layout_marginTop="15dp"
         android:layout_toEndOf="@id/ivProfileImage"
         android:text="This is my tweet"
