@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-User can see the cound of remaining characters while typin text. More than 280 characters will not be accepted.
+User can see the count of remaining characters while typing text. More than 280 characters will not be accepted.
 
 ## Video Walkthrough
 
